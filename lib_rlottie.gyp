@@ -49,7 +49,6 @@
 
       '<(rlottie_src)/lottie/lottieanimation.cpp',
       '<(rlottie_src)/lottie/lottieitem.cpp',
-      '<(rlottie_src)/lottie/lottieitem_capi.cpp',
       '<(rlottie_src)/lottie/lottieitem.h',
       '<(rlottie_src)/lottie/lottiekeypath.cpp',
       '<(rlottie_src)/lottie/lottiekeypath.h',
