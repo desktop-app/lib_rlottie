@@ -85,10 +85,11 @@ PRIVATE
 )
 
 target_compile_definitions(lib_rlottie
+PUBLIC
+    LOT_BUILD
 PRIVATE
     _USE_MATH_DEFINES
     "RAPIDJSON_ASSERT=(void)"
-    LOT_BUILD
 )
 
 target_include_directories(lib_rlottie
